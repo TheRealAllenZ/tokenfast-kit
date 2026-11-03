@@ -1,0 +1,24 @@
+SAMPLE ONLY: Maple Lane Studio is a made-up business. Every detail below is fictional and for illustration.
+
+=== TOKENFAST DATA BLOCK · TokenFast by Ethical AI ===
+SOURCE: self-reported interview, not measured
+RUNS: one assistant bot plus 4 scheduled jobs
+APP AND PLAN: [AI app name], paid personal plan
+LIMITS OR USAGE SEEN: hits the usage limit most Fridays
+HOW OFTEN AND HOW LONG: many times daily; main thread runs for weeks
+PAIN: hitting usage limits, answers get worse late in the week
+INSTRUCTIONS AND MEMORY: several pages, includes old client notes
+REPEATED WORK: rewrites the same product blurb most days
+THREADS: one never-ending planning thread
+SCHEDULES (count, busiest frequency, runs when unchanged): 4 jobs; inbox check every 15 minutes; yes, runs even when nothing changed
+TOOLS AND ATTACHMENTS: web search on most turns; re-uploads the same price sheet
+OTHER USERS: one part-time helper uses the same bot
+PASTED DATA (one-line summary or none): list of 4 routines
+FINDINGS (ranked by likely waste, guesses):
+1. Inbox check every 15 minutes with no change check (High)
+2. Never-ending planning thread re-reads weeks of history (High)
+3. Several pages of standing instructions with stale notes (Medium)
+4. Same price sheet re-uploaded instead of reused (Medium)
+5. Web search on turns that don't need it (Low)
+UNKNOWNS: real token counts; whether the plan resets daily or weekly
+=== END TOKENFAST DATA BLOCK ===
